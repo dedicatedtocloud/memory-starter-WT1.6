@@ -1,0 +1,24 @@
+[
+	{
+	    "code": "0001aecf",
+        "planeType": "Boeing 787",
+        "totalSeats": 200,
+        "destination": "LAX",
+        "departureDate": "2016-01-19T16:00:00",
+        "origin": "MUA",
+        "price": 541,
+        "airline": "American Airlines",
+        "emptySeats": 0
+    },
+    {
+        "code": "041fds3f",
+        "planeType": "Boeing 787",
+        "totalSeats": 300,
+        "destination": "SFO",
+        "departureDate": "2016-01-23T16:00:00",
+        "origin": "MUA",
+        "price": 284,
+        "airline": "American Airlines",
+        "emptySeats": 43
+    }
+]
